@@ -1,1 +1,1 @@
-This programme simulates the infrasture around boris bikes
+This programme simulates the infrastructure around boris bikes

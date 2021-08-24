@@ -1,0 +1,5 @@
+Type of error = NameError
+File path = ~/Projects/boris-bikes (ran in irb) 
+Line number of the error = Line 1
+What does the error mean? raised when a given name is invalid or undefined
+Suggest one way to solve the error? define the name i.e. DockingStation
